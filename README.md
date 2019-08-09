@@ -1,0 +1,2 @@
+# MVCPractice
+Пример применения MVC 
